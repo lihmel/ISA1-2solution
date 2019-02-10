@@ -65,7 +65,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="week2\2week.html" />
+    <Content Include="week2\2week2lesson.html" />
+    <Content Include="week2\styles.css" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
