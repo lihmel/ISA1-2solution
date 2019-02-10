@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="week2\2week2lesson.html" />
+    <Content Include="week2\lesson8.html" />
     <Content Include="week2\styles.css" />
   </ItemGroup>
   <ItemGroup>
